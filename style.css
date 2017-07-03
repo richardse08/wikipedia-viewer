@@ -1,12 +1,9 @@
-.background {
-    background-color: bisque;
-}
-
 h1 {
     font-family: "lobster";
 }
-/*
-.search-result {
-    border: solid;
+
+.add-border {
+    background-color: bisque;
+    margin: 10px;
 }
-*/
+
